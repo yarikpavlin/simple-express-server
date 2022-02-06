@@ -1,0 +1,27 @@
+{
+  "name": "simple-express-server",
+  "version": "1.0.0",
+  "description": "The simple server using Express framework in educational proposal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarikpavlin/simple-express-server.git"
+  },
+  "keywords": [
+    "Express",
+    "HTTP",
+    "server"
+  ],
+  "author": "Yaroslav Pavlynskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarikpavlin/simple-express-server/issues"
+  },
+  "homepage": "https://github.com/yarikpavlin/simple-express-server#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
